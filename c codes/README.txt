@@ -1,6 +1,6 @@
-# This is my poet portfolio
+# Lecture 0
 
-## There are all my practice code in java
+## Examples
 
 ### Types 
 
