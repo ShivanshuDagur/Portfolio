@@ -1,0 +1,28 @@
+1.Instance:
+
+The new operator instantiates a class by allocating memory for a new object and returning a reference to that memory. ...
+Note: The phrase "instantiating a class" means the same thing as "creating an object." When you create an object, you are
+creating an "instance" of a class, therefore "instantiating" a class.
+
+2.java.lang.*; 
+is imported by default.
+
+3.command line argument is agrgument passed while writing command (c:\java\bin\ java program  command_line_arrgument)eg:String args[]
+
+4.Instance Variable
+
+Here we will learn about instance variables in Java with the help of an example. Instance variables are used
+by Objects to store their states. Variables which are defined without the STATIC keyword  and are Outside 
+any method declaration are Object specific and are known as instance variables. They are called so because 
+their values are instance specific and are not shared among instances.
+eg:
+public class example{
+public int instanceVariable1;
+private string instanceVariable2
+}
+
+*Instance Variable can not be abstract.
+*Instance Variable can not have synchroonized modifier.
+*Instance Variable can not have strictfp modifier.
+*Instance Variable can not have native modifier.
+*Instance Variable can not have Static modifier as it will becomes Class level variable.
