@@ -1,4 +1,4 @@
 # This is my portfolio
 
-## These are all my practice codes in different programming language
+## This is all my work
 
