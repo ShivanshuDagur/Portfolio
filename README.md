@@ -1,4 +1,4 @@
-# This is my portfolio
+# These are my practice codes in differnet programming language
 
-## This is all my work
+## Majority of my practice codes are in Java
 
